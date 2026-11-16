@@ -1,4 +1,4 @@
-# ECO Admin Block Injector — Chrome Extension
+# ECO Admin Block Manager — Chrome Extension
 
 Paste a full HTML file and automatically split it into separate page_content blocks in ECO Admin. Each `.container` or `.container-fluid` becomes its own block.
 
@@ -9,7 +9,7 @@ Paste a full HTML file and automatically split it into separate page_content blo
 1. Open Chrome and go to `chrome://extensions`
 2. Enable **Developer mode** (top right toggle)
 3. Click **Load unpacked**
-4. Select this folder (`eco-admin-injector`)
+4. Select this folder (`wbr-eco-block-manager`)
 5. The extension icon appears in your toolbar
 
 ---

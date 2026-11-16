@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ECO Admin Block Injector",
-  "version": "1.5",
-  "description": "Split a full HTML file into page_content blocks in ECO Admin",
+  "name": "ECO Admin Block Manager",
+  "version": "1.6",
+  "description": "Add, manage, export and delete page_content blocks in ECO Admin, and download their images",
   "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": ["https://ecoadmin.wbresearch.com/*", "<all_urls>"],
   "action": {
